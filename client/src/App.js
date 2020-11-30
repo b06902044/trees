@@ -14,7 +14,7 @@ function App(){
 
   return (
     <div className="App">
-        <h1>Hello from the frontend!</h1>
+        <h1>Here is out new future!</h1>
         <h1>{response.body}</h1>
     </div>
   );
