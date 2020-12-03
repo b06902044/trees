@@ -49,6 +49,10 @@ class UserContextProvider extends React.Component {
         firebase.auth().signOut();
         this.props.history.push('/');
     }
+
+    createUser = () => {
+        
+    }
     
     render() {
         return (
